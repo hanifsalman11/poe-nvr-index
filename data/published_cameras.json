@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "camera_name": "Reolink RLC-810A 4K 8MP Bullet PoE",
+    "slug": "reolink-rlc-810a-4k-8mp-bullet-poe-nvr-storage-calculator",
+    "title": "Reolink RLC-810A 4K 8MP Bullet PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (17.0 TB for 8 cameras / 30 days), H.265 bitrate (6.1 Mbps), and PoE switch wattage for the Reolink RLC-810A 4K 8MP Bullet PoE.",
+    "mp": 8,
+    "bitrate_mbps": 6.1,
+    "tb_8cam": 17.0,
+    "date": "2026-10-23"
+  },
+  {
+    "camera_name": "Reolink TrackMix PoE Dual-Lens PTZ",
+    "slug": "reolink-trackmix-poe-dual-lens-ptz-nvr-storage-calculator",
+    "title": "Reolink TrackMix PoE Dual-Lens PTZ NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (22.8 TB for 8 cameras / 30 days), H.265 bitrate (8.2 Mbps), and PoE switch wattage for the Reolink TrackMix PoE Dual-Lens PTZ.",
+    "mp": 8,
+    "bitrate_mbps": 8.2,
+    "tb_8cam": 22.8,
+    "date": "2026-10-23"
+  },
+  {
+    "camera_name": "Reolink Duo 3 PoE 16MP UHD Panoramic",
+    "slug": "reolink-duo-3-poe-16mp-uhd-panoramic-nvr-storage-calculator",
+    "title": "Reolink Duo 3 PoE 16MP UHD Panoramic NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (29.3 TB for 8 cameras / 30 days), H.265 bitrate (10.5 Mbps), and PoE switch wattage for the Reolink Duo 3 PoE 16MP UHD Panoramic.",
+    "mp": 16,
+    "bitrate_mbps": 10.5,
+    "tb_8cam": 29.3,
+    "date": "2026-10-23"
+  }
+]
