@@ -28,5 +28,35 @@
     "bitrate_mbps": 10.5,
     "tb_8cam": 29.3,
     "date": "2026-10-23"
+  },
+  {
+    "camera_name": "Ubiquiti UniFi Protect G5 Pro 4K",
+    "slug": "ubiquiti-unifi-protect-g5-pro-4k-nvr-storage-calculator",
+    "title": "Ubiquiti UniFi Protect G5 Pro 4K NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (27.9 TB for 8 cameras / 30 days), H.265 bitrate (10.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi Protect G5 Pro 4K.",
+    "mp": 8,
+    "bitrate_mbps": 10.0,
+    "tb_8cam": 27.9,
+    "date": "2026-10-23"
+  },
+  {
+    "camera_name": "Ubiquiti UniFi Protect AI Pro 4K",
+    "slug": "ubiquiti-unifi-protect-ai-pro-4k-nvr-storage-calculator",
+    "title": "Ubiquiti UniFi Protect AI Pro 4K NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (33.4 TB for 8 cameras / 30 days), H.265 bitrate (12.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi Protect AI Pro 4K.",
+    "mp": 8,
+    "bitrate_mbps": 12.0,
+    "tb_8cam": 33.4,
+    "date": "2026-10-23"
+  },
+  {
+    "camera_name": "Amcrest UltraHD 4K 8MP IP8M-T2599EW",
+    "slug": "amcrest-ultrahd-4k-8mp-ip8m-t2599ew-nvr-storage-calculator",
+    "title": "Amcrest UltraHD 4K 8MP IP8M-T2599EW NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Amcrest UltraHD 4K 8MP IP8M-T2599EW.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-23"
   }
 ]
