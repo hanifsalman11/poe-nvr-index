@@ -148,5 +148,35 @@
     "bitrate_mbps": 8.5,
     "tb_8cam": 23.7,
     "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Hanwha Vision Wisenet XNO-8080R 5MP",
+    "slug": "hanwha-vision-wisenet-xno-8080r-5mp-nvr-storage-calculator",
+    "title": "Hanwha Vision Wisenet XNO-8080R 5MP NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (15.3 TB for 8 cameras / 30 days), H.265 bitrate (5.5 Mbps), and PoE switch wattage for the Hanwha Vision Wisenet XNO-8080R 5MP.",
+    "mp": 5,
+    "bitrate_mbps": 5.5,
+    "tb_8cam": 15.3,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Amcrest 5MP Turret IP5M-T1179EW PoE",
+    "slug": "amcrest-5mp-turret-ip5m-t1179ew-poe-nvr-storage-calculator",
+    "title": "Amcrest 5MP Turret IP5M-T1179EW PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (12.5 TB for 8 cameras / 30 days), H.265 bitrate (4.5 Mbps), and PoE switch wattage for the Amcrest 5MP Turret IP5M-T1179EW PoE.",
+    "mp": 5,
+    "bitrate_mbps": 4.5,
+    "tb_8cam": 12.5,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Reolink CX410 ColorX 2K True Full-Color",
+    "slug": "reolink-cx410-colorx-2k-true-full-color-nvr-storage-calculator",
+    "title": "Reolink CX410 ColorX 2K True Full-Color NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (11.7 TB for 8 cameras / 30 days), H.265 bitrate (4.2 Mbps), and PoE switch wattage for the Reolink CX410 ColorX 2K True Full-Color.",
+    "mp": 4,
+    "bitrate_mbps": 4.2,
+    "tb_8cam": 11.7,
+    "date": "2026-10-24"
   }
 ]
