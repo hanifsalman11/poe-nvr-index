@@ -58,5 +58,35 @@
     "bitrate_mbps": 6.5,
     "tb_8cam": 18.1,
     "date": "2026-10-23"
+  },
+  {
+    "camera_name": "Hikvision DS-2CD2387G2-LU 4K ColorVu",
+    "slug": "hikvision-ds-2cd2387g2-lu-4k-colorvu-nvr-storage-calculator",
+    "title": "Hikvision DS-2CD2387G2-LU 4K ColorVu NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (22.3 TB for 8 cameras / 30 days), H.265 bitrate (8.0 Mbps), and PoE switch wattage for the Hikvision DS-2CD2387G2-LU 4K ColorVu.",
+    "mp": 8,
+    "bitrate_mbps": 8.0,
+    "tb_8cam": 22.3,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Dahua IPC-HFW5849T1-ASE-LED Full-Color 8MP",
+    "slug": "dahua-ipc-hfw5849t1-ase-led-full-color-8mp-nvr-storage-calculator",
+    "title": "Dahua IPC-HFW5849T1-ASE-LED Full-Color 8MP NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (22.3 TB for 8 cameras / 30 days), H.265 bitrate (8.0 Mbps), and PoE switch wattage for the Dahua IPC-HFW5849T1-ASE-LED Full-Color 8MP.",
+    "mp": 8,
+    "bitrate_mbps": 8.0,
+    "tb_8cam": 22.3,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "EmpireTech IPC-Color4K-T 8MP 1/1.2 CMOS",
+    "slug": "empiretech-ipc-color4k-t-8mp-112-cmos-nvr-storage-calculator",
+    "title": "EmpireTech IPC-Color4K-T 8MP 1/1.2 CMOS NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (23.7 TB for 8 cameras / 30 days), H.265 bitrate (8.5 Mbps), and PoE switch wattage for the EmpireTech IPC-Color4K-T 8MP 1/1.2 CMOS.",
+    "mp": 8,
+    "bitrate_mbps": 8.5,
+    "tb_8cam": 23.7,
+    "date": "2026-10-24"
   }
 ]
