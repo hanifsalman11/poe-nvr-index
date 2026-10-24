@@ -88,5 +88,35 @@
     "bitrate_mbps": 8.5,
     "tb_8cam": 23.7,
     "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Annke NC800 4K 8MP NightChroma PoE",
+    "slug": "annke-nc800-4k-8mp-nightchroma-poe-nvr-storage-calculator",
+    "title": "Annke NC800 4K 8MP NightChroma PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Annke NC800 4K 8MP NightChroma PoE.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Reolink RLC-823S2 4K 16X Optical Zoom PTZ",
+    "slug": "reolink-rlc-823s2-4k-16x-optical-zoom-ptz-nvr-storage-calculator",
+    "title": "Reolink RLC-823S2 4K 16X Optical Zoom PTZ NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (23.7 TB for 8 cameras / 30 days), H.265 bitrate (8.5 Mbps), and PoE switch wattage for the Reolink RLC-823S2 4K 16X Optical Zoom PTZ.",
+    "mp": 8,
+    "bitrate_mbps": 8.5,
+    "tb_8cam": 23.7,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Ubiquiti UniFi G5 Turret Ultra 2K",
+    "slug": "ubiquiti-unifi-g5-turret-ultra-2k-nvr-storage-calculator",
+    "title": "Ubiquiti UniFi G5 Turret Ultra 2K NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (13.9 TB for 8 cameras / 30 days), H.265 bitrate (5.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi G5 Turret Ultra 2K.",
+    "mp": 4,
+    "bitrate_mbps": 5.0,
+    "tb_8cam": 13.9,
+    "date": "2026-10-24"
   }
 ]
