@@ -118,5 +118,35 @@
     "bitrate_mbps": 5.0,
     "tb_8cam": 13.9,
     "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Reolink RLC-1212A 12MP Ultra-HD PoE",
+    "slug": "reolink-rlc-1212a-12mp-ultra-hd-poe-nvr-storage-calculator",
+    "title": "Reolink RLC-1212A 12MP Ultra-HD PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (25.1 TB for 8 cameras / 30 days), H.265 bitrate (9.0 Mbps), and PoE switch wattage for the Reolink RLC-1212A 12MP Ultra-HD PoE.",
+    "mp": 12,
+    "bitrate_mbps": 9.0,
+    "tb_8cam": 25.1,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Lorex 4K+ 12MP Smart Deterrence PoE",
+    "slug": "lorex-4k-12mp-smart-deterrence-poe-nvr-storage-calculator",
+    "title": "Lorex 4K+ 12MP Smart Deterrence PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (26.5 TB for 8 cameras / 30 days), H.265 bitrate (9.5 Mbps), and PoE switch wattage for the Lorex 4K+ 12MP Smart Deterrence PoE.",
+    "mp": 12,
+    "bitrate_mbps": 9.5,
+    "tb_8cam": 26.5,
+    "date": "2026-10-24"
+  },
+  {
+    "camera_name": "Axis P3268-LVE 8MP 4K Outdoor Dome",
+    "slug": "axis-p3268-lve-8mp-4k-outdoor-dome-nvr-storage-calculator",
+    "title": "Axis P3268-LVE 8MP 4K Outdoor Dome NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (23.7 TB for 8 cameras / 30 days), H.265 bitrate (8.5 Mbps), and PoE switch wattage for the Axis P3268-LVE 8MP 4K Outdoor Dome.",
+    "mp": 8,
+    "bitrate_mbps": 8.5,
+    "tb_8cam": 23.7,
+    "date": "2026-10-24"
   }
 ]
