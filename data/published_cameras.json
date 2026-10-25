@@ -238,5 +238,35 @@
     "bitrate_mbps": 7.0,
     "tb_8cam": 19.5,
     "date": "2026-10-25"
+  },
+  {
+    "camera_name": "Reolink RLC-843A 4K Vandal-Proof IK10 Dome",
+    "slug": "reolink-rlc-843a-4k-vandal-proof-ik10-dome-nvr-storage-calculator",
+    "title": "Reolink RLC-843A 4K Vandal-Proof IK10 Dome NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink RLC-843A 4K Vandal-Proof IK10 Dome.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-25"
+  },
+  {
+    "camera_name": "Amcrest 4K AI Booby-Trap PTZ IP8M-2796EW",
+    "slug": "amcrest-4k-ai-booby-trap-ptz-ip8m-2796ew-nvr-storage-calculator",
+    "title": "Amcrest 4K AI Booby-Trap PTZ IP8M-2796EW NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (23.7 TB for 8 cameras / 30 days), H.265 bitrate (8.5 Mbps), and PoE switch wattage for the Amcrest 4K AI Booby-Trap PTZ IP8M-2796EW.",
+    "mp": 8,
+    "bitrate_mbps": 8.5,
+    "tb_8cam": 23.7,
+    "date": "2026-10-25"
+  },
+  {
+    "camera_name": "Hikvision DS-2DE4425IW-DE 4MP 25X DarkFighter PTZ",
+    "slug": "hikvision-ds-2de4425iw-de-4mp-25x-darkfighter-ptz-nvr-storage-calculator",
+    "title": "Hikvision DS-2DE4425IW-DE 4MP 25X DarkFighter PTZ NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (16.7 TB for 8 cameras / 30 days), H.265 bitrate (6.0 Mbps), and PoE switch wattage for the Hikvision DS-2DE4425IW-DE 4MP 25X DarkFighter PTZ.",
+    "mp": 4,
+    "bitrate_mbps": 6.0,
+    "tb_8cam": 16.7,
+    "date": "2026-10-25"
   }
 ]
