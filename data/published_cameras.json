@@ -268,5 +268,35 @@
     "bitrate_mbps": 6.0,
     "tb_8cam": 16.7,
     "date": "2026-10-25"
+  },
+  {
+    "camera_name": "ReolinkFE-P 6MP 360-Degree Fisheye PoE",
+    "slug": "reolinkfe-p-6mp-360-degree-fisheye-poe-nvr-storage-calculator",
+    "title": "ReolinkFE-P 6MP 360-Degree Fisheye PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (16.7 TB for 8 cameras / 30 days), H.265 bitrate (6.0 Mbps), and PoE switch wattage for the ReolinkFE-P 6MP 360-Degree Fisheye PoE.",
+    "mp": 6,
+    "bitrate_mbps": 6.0,
+    "tb_8cam": 16.7,
+    "date": "2026-10-25"
+  },
+  {
+    "camera_name": "Ubiquiti UniFi G4 Doorbell Pro PoE Kit",
+    "slug": "ubiquiti-unifi-g4-doorbell-pro-poe-kit-nvr-storage-calculator",
+    "title": "Ubiquiti UniFi G4 Doorbell Pro PoE Kit NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (16.7 TB for 8 cameras / 30 days), H.265 bitrate (6.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi G4 Doorbell Pro PoE Kit.",
+    "mp": 5,
+    "bitrate_mbps": 6.0,
+    "tb_8cam": 16.7,
+    "date": "2026-10-25"
+  },
+  {
+    "camera_name": "Vivotek IB9387-HT-A 5MP Outdoor Bullet PoE",
+    "slug": "vivotek-ib9387-ht-a-5mp-outdoor-bullet-poe-nvr-storage-calculator",
+    "title": "Vivotek IB9387-HT-A 5MP Outdoor Bullet PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (15.3 TB for 8 cameras / 30 days), H.265 bitrate (5.5 Mbps), and PoE switch wattage for the Vivotek IB9387-HT-A 5MP Outdoor Bullet PoE.",
+    "mp": 5,
+    "bitrate_mbps": 5.5,
+    "tb_8cam": 15.3,
+    "date": "2026-10-25"
   }
 ]
