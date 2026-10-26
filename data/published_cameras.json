@@ -328,5 +328,35 @@
     "bitrate_mbps": 6.5,
     "tb_8cam": 18.1,
     "date": "2026-10-26"
+  },
+  {
+    "camera_name": "Reolink Camera",
+    "slug": "reolink-camera-nvr-storage-calculator",
+    "title": "Reolink Camera NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink Camera.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-26"
+  },
+  {
+    "camera_name": "Reolink  Options",
+    "slug": "reolink-options-nvr-storage-calculator",
+    "title": "Reolink  Options NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink  Options.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-26"
+  },
+  {
+    "camera_name": "Reolink Cloud  Price",
+    "slug": "reolink-cloud-price-nvr-storage-calculator",
+    "title": "Reolink Cloud  Price NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink Cloud  Price.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-26"
   }
 ]

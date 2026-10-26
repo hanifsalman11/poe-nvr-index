@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/poe-nvr-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Reolink Cloud  Price NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-cloud-price-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-cloud-price-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink Cloud  Price.</description>
+    </item>
+    <item>
+      <title>Reolink  Options NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-options-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-options-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink  Options.</description>
+    </item>
+    <item>
+      <title>Reolink Camera NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-camera-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-camera-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink Camera.</description>
+    </item>
+    <item>
       <title>Reolink Space NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-space-nvr-storage-calculator.html</link>
       <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-space-nvr-storage-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/poe-nvr-index/hikvision-ds-2cd2387g2-lu-4k-colorvu-nvr-storage-calculator.html</link>
       <guid>https://hanifsalman11.github.io/poe-nvr-index/hikvision-ds-2cd2387g2-lu-4k-colorvu-nvr-storage-calculator.html</guid>
       <description>Calculate exact NVR hard drive capacity (22.3 TB for 8 cameras / 30 days), H.265 bitrate (8.0 Mbps), and PoE switch wattage for the Hikvision DS-2CD2387G2-LU 4K ColorVu.</description>
-    </item>
-    <item>
-      <title>Amcrest UltraHD 4K 8MP IP8M-T2599EW NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/amcrest-ultrahd-4k-8mp-ip8m-t2599ew-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/amcrest-ultrahd-4k-8mp-ip8m-t2599ew-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Amcrest UltraHD 4K 8MP IP8M-T2599EW.</description>
-    </item>
-    <item>
-      <title>Ubiquiti UniFi Protect AI Pro 4K NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/ubiquiti-unifi-protect-ai-pro-4k-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/ubiquiti-unifi-protect-ai-pro-4k-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (33.4 TB for 8 cameras / 30 days), H.265 bitrate (12.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi Protect AI Pro 4K.</description>
-    </item>
-    <item>
-      <title>Ubiquiti UniFi Protect G5 Pro 4K NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/ubiquiti-unifi-protect-g5-pro-4k-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/ubiquiti-unifi-protect-g5-pro-4k-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (27.9 TB for 8 cameras / 30 days), H.265 bitrate (10.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi Protect G5 Pro 4K.</description>
     </item>
   </channel>
 </rss>
