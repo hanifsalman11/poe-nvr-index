@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/poe-nvr-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Reolink Space NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-space-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-space-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink Space.</description>
+    </item>
+    <item>
+      <title>Reolink Capacity NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-capacity-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-capacity-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink Capacity.</description>
+    </item>
+    <item>
+      <title>Reolink NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Reolink.</description>
+    </item>
+    <item>
       <title>Vivotek IB9387-HT-A 5MP Outdoor Bullet PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/poe-nvr-index/vivotek-ib9387-ht-a-5mp-outdoor-bullet-poe-nvr-storage-calculator.html</link>
       <guid>https://hanifsalman11.github.io/poe-nvr-index/vivotek-ib9387-ht-a-5mp-outdoor-bullet-poe-nvr-storage-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/poe-nvr-index/ubiquiti-unifi-protect-g5-pro-4k-nvr-storage-calculator.html</link>
       <guid>https://hanifsalman11.github.io/poe-nvr-index/ubiquiti-unifi-protect-g5-pro-4k-nvr-storage-calculator.html</guid>
       <description>Calculate exact NVR hard drive capacity (27.9 TB for 8 cameras / 30 days), H.265 bitrate (10.0 Mbps), and PoE switch wattage for the Ubiquiti UniFi Protect G5 Pro 4K.</description>
-    </item>
-    <item>
-      <title>Reolink Duo 3 PoE 16MP UHD Panoramic NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-duo-3-poe-16mp-uhd-panoramic-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-duo-3-poe-16mp-uhd-panoramic-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (29.3 TB for 8 cameras / 30 days), H.265 bitrate (10.5 Mbps), and PoE switch wattage for the Reolink Duo 3 PoE 16MP UHD Panoramic.</description>
-    </item>
-    <item>
-      <title>Reolink TrackMix PoE Dual-Lens PTZ NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-trackmix-poe-dual-lens-ptz-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-trackmix-poe-dual-lens-ptz-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (22.8 TB for 8 cameras / 30 days), H.265 bitrate (8.2 Mbps), and PoE switch wattage for the Reolink TrackMix PoE Dual-Lens PTZ.</description>
-    </item>
-    <item>
-      <title>Reolink RLC-810A 4K 8MP Bullet PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-rlc-810a-4k-8mp-bullet-poe-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-rlc-810a-4k-8mp-bullet-poe-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (17.0 TB for 8 cameras / 30 days), H.265 bitrate (6.1 Mbps), and PoE switch wattage for the Reolink RLC-810A 4K 8MP Bullet PoE.</description>
     </item>
   </channel>
 </rss>
