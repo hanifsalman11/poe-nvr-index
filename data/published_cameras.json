@@ -418,5 +418,35 @@
     "bitrate_mbps": 6.5,
     "tb_8cam": 18.1,
     "date": "2026-10-27"
+  },
+  {
+    "camera_name": "Unifi Protect Disk Space",
+    "slug": "unifi-protect-disk-space-nvr-storage-calculator",
+    "title": "Unifi Protect Disk Space NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Unifi Protect Disk Space.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-27"
+  },
+  {
+    "camera_name": "Unifi Protect  Options",
+    "slug": "unifi-protect-options-nvr-storage-calculator",
+    "title": "Unifi Protect  Options NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Unifi Protect  Options.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-27"
+  },
+  {
+    "camera_name": "Unifi Protect Camera Limit",
+    "slug": "unifi-protect-camera-limit-nvr-storage-calculator",
+    "title": "Unifi Protect Camera Limit NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (18.1 TB for 8 cameras / 30 days), H.265 bitrate (6.5 Mbps), and PoE switch wattage for the Unifi Protect Camera Limit.",
+    "mp": 8,
+    "bitrate_mbps": 6.5,
+    "tb_8cam": 18.1,
+    "date": "2026-10-27"
   }
 ]
