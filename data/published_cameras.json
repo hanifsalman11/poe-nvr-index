@@ -448,5 +448,15 @@
     "bitrate_mbps": 6.5,
     "tb_8cam": 18.1,
     "date": "2026-10-27"
+  },
+  {
+    "camera_name": "Reolink FE-P 6MP 360-Degree Fisheye PoE",
+    "slug": "reolink-fe-p-6mp-360-degree-fisheye-poe-nvr-storage-calculator",
+    "title": "Reolink FE-P 6MP 360-Degree Fisheye PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)",
+    "description": "Calculate exact NVR hard drive capacity (16.7 TB for 8 cameras / 30 days), H.265 bitrate (6.0 Mbps), and PoE switch wattage for the Reolink FE-P 6MP 360-Degree Fisheye PoE.",
+    "mp": 6,
+    "bitrate_mbps": 6.0,
+    "tb_8cam": 16.7,
+    "date": "2026-11-03"
   }
 ]

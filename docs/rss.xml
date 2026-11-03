@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/poe-nvr-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Reolink FE-P 6MP 360-Degree Fisheye PoE NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/poe-nvr-index/reolink-fe-p-6mp-360-degree-fisheye-poe-nvr-storage-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/poe-nvr-index/reolink-fe-p-6mp-360-degree-fisheye-poe-nvr-storage-calculator.html</guid>
+      <description>Calculate exact NVR hard drive capacity (16.7 TB for 8 cameras / 30 days), H.265 bitrate (6.0 Mbps), and PoE switch wattage for the Reolink FE-P 6MP 360-Degree Fisheye PoE.</description>
+    </item>
+    <item>
       <title>Unifi Protect Camera Limit NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/poe-nvr-index/unifi-protect-camera-limit-nvr-storage-calculator.html</link>
       <guid>https://hanifsalman11.github.io/poe-nvr-index/unifi-protect-camera-limit-nvr-storage-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/poe-nvr-index/amcrest-5mp-turret-ip5m-t1179ew-poe-nvr-storage-calculator.html</link>
       <guid>https://hanifsalman11.github.io/poe-nvr-index/amcrest-5mp-turret-ip5m-t1179ew-poe-nvr-storage-calculator.html</guid>
       <description>Calculate exact NVR hard drive capacity (12.5 TB for 8 cameras / 30 days), H.265 bitrate (4.5 Mbps), and PoE switch wattage for the Amcrest 5MP Turret IP5M-T1179EW PoE.</description>
-    </item>
-    <item>
-      <title>Hanwha Vision Wisenet XNO-8080R 5MP NVR Storage (TB), Bitrate & PoE Switch Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/poe-nvr-index/hanwha-vision-wisenet-xno-8080r-5mp-nvr-storage-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/poe-nvr-index/hanwha-vision-wisenet-xno-8080r-5mp-nvr-storage-calculator.html</guid>
-      <description>Calculate exact NVR hard drive capacity (15.3 TB for 8 cameras / 30 days), H.265 bitrate (5.5 Mbps), and PoE switch wattage for the Hanwha Vision Wisenet XNO-8080R 5MP.</description>
     </item>
   </channel>
 </rss>
